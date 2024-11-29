@@ -1,0 +1,42 @@
+---
+title: "Dr. Daniele Florean"
+subtitle: "Sociology / Demography / Data Analysis"
+
+image: profile.jpg
+about: # https://quarto.org/docs/websites/website-about.html
+  template: trestles
+  image-shape: rounded
+  links:
+    - icon: cloud-sun
+      text: BlueSky
+      href: https://bsky.app/profile/daniflorean.bsky.social
+    - icon: envelope
+      text: E-mail
+      href: mailto:florean.daniele@protonmail.com 
+    - icon: folder2
+      text: Scholar
+      href: https://scholar.google.it/citations?user=UIaliWwAAAAJ&hl=it&oi=ao
+---
+
+I am sociologist and demographer by training. I have a strong quantitative approach and a strong training in quantitative analysis methods, but I highly value qualitative insights. \
+I worked on family formation dynamics, marriage, partnership patterns and transition to parenthood. \
+I am interested in anything related to social inequalities, life course development, structural change and a little bit of historical demography. I am also more and more interested in science communicaiton and data visualization. \
+For more information about my past and current research, see my portfolio. \
+
+\
+
+## Experience
+
+Goethe University Frankfurt \| Researcher \| Nov. 2022 - present \
+\
+Humboldt University of Berlin \| Researcher \| Sept. 2019 - Nov. 2022
+
+*for previous positions, see my curriculum vitae*
+
+## Education
+
+Doctorate:\
+Humboldt University \| Berlin \| Sept 2019 - November 2022
+
+Masters:\
+Otto-Friedrich University \| Bamberg \| Sept. 2017 - Feb. 2019 Università degli studi di Trento \| Trento \| Sept. 2016 - March 2019
