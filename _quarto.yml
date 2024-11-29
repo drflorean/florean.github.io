@@ -12,6 +12,9 @@ website:
       - icon: person-badge
         text: About
         href: about.qmd
+      - icon: file-text
+        text: Research
+        href: research.qmd
       
       
 format:
