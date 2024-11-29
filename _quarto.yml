@@ -16,8 +16,7 @@ website:
         text: Research
         href: research.qmd
       
-      
+
 format:
   html:
     theme: [cosmo, styles.scss]
-
